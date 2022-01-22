@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Minou alla carta"
-description:	       "Created with Jekyll and the awesome Millenial theme"
+description:	       "Created with Jekyll and the awesome Millennial theme"
 #author:              "Minou Manafi Varkiani"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
