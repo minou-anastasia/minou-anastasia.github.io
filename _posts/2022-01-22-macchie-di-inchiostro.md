@@ -16,7 +16,7 @@ Mi sedevo stanca sull’erba, e facendo finta di riposarmi, aspettavo con ardore
 A volte scrivevamo. E scrivevamo insieme un po’ di tutto.  
 Mi piaceva giocare con te in questo modo: mi guardavo intorno e sceglievo un elemento della natura. E stabilivo che dovevamo tirarne fuori qualcosa: una poesia, una frase significativa, un piccolo racconto.  
 
-Ho nella mente una volta in particolare: avevo scelto la parola Vento.  
+Ho nella mente una volta in particolare: avevo scelto la parola *Vento*.  
 Io avevo scritto una poesia che iniziava così:  
 
 >Mio Vento,  
